@@ -31,7 +31,7 @@ const items = [
   {
     href: '/table3',
     icon: (<UserIcon fontSize="small" />),
-    title: '낙찰결과관리 11'
+    title: '낙찰결과관리'
   },
   {
     href: '/table4',
