@@ -16,7 +16,7 @@ const items = [
   {
     href: '/',
     icon: (<ChartBarIcon fontSize="small" />),
-    title: 'dashboard - 미정'
+    title: 'dashboard 통계'
   },
   {
     href: '/products',
