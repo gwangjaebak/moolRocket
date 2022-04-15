@@ -21,7 +21,7 @@ const items = [
   {
     href: '/products',
     icon: (<UsersIcon fontSize="small" />),
-    title: '입찰대상관리 11'
+    title: '입찰대상관리 11111'
   },
   {
     href: '/customers',
