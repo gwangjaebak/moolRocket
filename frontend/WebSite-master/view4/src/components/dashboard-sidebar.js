@@ -21,17 +21,17 @@ const items = [
   {
     href: '/products',
     icon: (<UsersIcon fontSize="small" />),
-    title: '입찰대상관리'
+    title: '입찰대상관리 11'
   },
   {
     href: '/customers',
     icon: (<ShoppingBagIcon fontSize="small" />),
-    title: '입찰대상확정'
+    title: '입찰대상확정 11'
   },
   {
     href: '/table3',
     icon: (<UserIcon fontSize="small" />),
-    title: '낙찰결과관리'
+    title: '낙찰결과관리 11'
   },
   {
     href: '/table4',
